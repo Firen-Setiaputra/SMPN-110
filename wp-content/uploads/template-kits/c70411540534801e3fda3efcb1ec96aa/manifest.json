@@ -1,0 +1,761 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Verbalizer \u2013 Language Courses & Learning Center Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tab Courses",
+            "screenshot": "screenshots\/tab-courses.jpg",
+            "source": "templates\/tab-courses.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/tab-courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Appointment",
+            "screenshot": "screenshots\/metform-appointment.jpg",
+            "source": "templates\/metform-appointment.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/metform-appointment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Courses",
+            "screenshot": "screenshots\/courses.jpg",
+            "source": "templates\/courses.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Course Details",
+            "screenshot": "screenshots\/course-details.jpg",
+            "source": "templates\/course-details.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/course-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Teacher",
+            "screenshot": "screenshots\/teacher.jpg",
+            "source": "templates\/teacher.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/teacher\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "MetForm",
+            "version": "1.4.9",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.9",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.11.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        }
+    ],
+    "images": [
+        {
+            "filename": "woman-learning-english-online-e1625538535869.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/06\/woman-learning-english-online-800x531.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-courses.json",
+                    "name": "Tab Courses"
+                }
+            ],
+            "filesize": 228555,
+            "dimensions": [
+                1920,
+                1275
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NFK76AY"
+        },
+        {
+            "filename": "english-R3KPS6.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/06\/english-R3KPS6.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-courses.json",
+                    "name": "Tab Courses"
+                }
+            ],
+            "filesize": 8134,
+            "dimensions": [
+                360,
+                217
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-R3KPS6"
+        },
+        {
+            "filename": "girl-making-a-video-call-online-on-the-internet--e1625538546462.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/06\/girl-making-a-video-call-online-on-the-internet--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-courses.json",
+                    "name": "Tab Courses"
+                }
+            ],
+            "filesize": 232851,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6P4AL5"
+        },
+        {
+            "filename": "male-student-wearing-headphones-taking-online-course-seminar-watching-webinar--e1625538582195.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/06\/male-student-wearing-headphones-taking-online-course-seminar-watching-webinar--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-courses.json",
+                    "name": "Tab Courses"
+                }
+            ],
+            "filesize": 235075,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CBSKM6C"
+        },
+        {
+            "filename": "background.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/06\/background-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                },
+                {
+                    "source": "templates\/teacher.json",
+                    "name": "Teacher"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 49140,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/halftone-background-with-lines_13295060.htm"
+        },
+        {
+            "filename": "image-JA74V7F.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/06\/image-JA74V7F-800x1098.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 318882,
+            "dimensions": [
+                807,
+                1108
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JA74V7F"
+        },
+        {
+            "filename": "imagee-6CHT7KZ.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/07\/imagee-6CHT7KZ.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/teacher.json",
+                    "name": "Teacher"
+                }
+            ],
+            "filesize": 313226,
+            "dimensions": [
+                799,
+                1179
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6CHT7KZ"
+        },
+        {
+            "filename": "testi-83S5W35.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/07\/testi-83S5W35.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 39015,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-83S5W35"
+        },
+        {
+            "filename": "asian-woman-studying-foreign-languages-online-with-laptop-and-headset-at-home-e1625538566657.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/06\/asian-woman-studying-foreign-languages-online-with-laptop-and-headset-at-home-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 163518,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-37VWVU6"
+        },
+        {
+            "filename": "young-latin-woman-in-black-headphones-teaching-english-online-e1625538522520.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/06\/young-latin-woman-in-black-headphones-teaching-english-online-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 207362,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V7J9542"
+        },
+        {
+            "filename": "teamm-6CHT7KZ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/07\/teamm-6CHT7KZ-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/teacher.json",
+                    "name": "Teacher"
+                }
+            ],
+            "filesize": 122202,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6CHT7KZ"
+        },
+        {
+            "filename": "teamm-JA74V7F.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/07\/teamm-JA74V7F-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/teacher.json",
+                    "name": "Teacher"
+                }
+            ],
+            "filesize": 116067,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JA74V7F"
+        },
+        {
+            "filename": "team-JFNGYQL.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/07\/team-JFNGYQL-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/teacher.json",
+                    "name": "Teacher"
+                }
+            ],
+            "filesize": 191590,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JFNGYQL"
+        },
+        {
+            "filename": "student-using-laptop-having-online-class-with-teacher-pov-e1625538594703.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/06\/student-using-laptop-having-online-class-with-teacher-pov-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                }
+            ],
+            "filesize": 190469,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8D4CFVL"
+        },
+        {
+            "filename": "casual-man-happy-smile-young-handsome-guy-hold-tab-B3EGD4W.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/07\/casual-man-happy-smile-young-handsome-guy-hold-tab-B3EGD4W-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/teacher.json",
+                    "name": "Teacher"
+                }
+            ],
+            "filesize": 143360,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B3EGD4W"
+        },
+        {
+            "filename": "pretty-smiling-woman-in-khaki-shirt-holding-notepa-NCMRJQU.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/07\/pretty-smiling-woman-in-khaki-shirt-holding-notepa-NCMRJQU-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/teacher.json",
+                    "name": "Teacher"
+                }
+            ],
+            "filesize": 112425,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NCMRJQU"
+        },
+        {
+            "filename": "cheerful-polite-handsome-elegant-asian-guy-in-whit-Z77F7NJ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/07\/cheerful-polite-handsome-elegant-asian-guy-in-whit-Z77F7NJ-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/teacher.json",
+                    "name": "Teacher"
+                }
+            ],
+            "filesize": 117109,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z77F7NJ"
+        },
+        {
+            "filename": "online-education-young-arab-guy-watching-webinar-on-laptop-and-taking-notes-e1625538610179.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/06\/online-education-young-arab-guy-watching-webinar-on-laptop-and-taking-notes-800x546.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 210467,
+            "dimensions": [
+                1920,
+                1311
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ADHPRUA"
+        },
+        {
+            "filename": "happy-arab-guy-student-learning-foreign-language-online-e1625538616107.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/06\/happy-arab-guy-student-learning-foreign-language-online-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 180757,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-78K2W9A"
+        },
+        {
+            "filename": "student-listening-colleagues-during-online-videocall-school-e1625538555721.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/06\/student-listening-colleagues-during-online-videocall-school-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 188597,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-42SVWGL"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/07\/logo-800x163.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 11415,
+            "dimensions": [
+                829,
+                169
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/v-logo-collection_9472430.htm"
+        },
+        {
+            "filename": "footer.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/verbalizer\/wp-content\/uploads\/sites\/117\/2021\/07\/footer-800x163.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 10809,
+            "dimensions": [
+                829,
+                169
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/v-logo-collection_9472430.htm"
+        }
+    ]
+}
